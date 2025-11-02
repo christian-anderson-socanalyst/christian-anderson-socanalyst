@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/christian-anderson-socanalyst/">Christian Anderson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am passionate about cybersecurity and believe that I do some of my best work when I have hands-on experience. My curiosity has dragged me from vulnerability management to threat detection. How will the evolving cybersecurity landscape affect our current and future thinking? Please feel free to review my work. If you have any questions, you can reach me on <a href="https://www.linkedin.com/in/christian-anderson-socanalyst/">LinkedIn</a>.
 
 
 ## ⚠️ Vulnerability Management Projects
