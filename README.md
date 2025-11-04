@@ -5,7 +5,7 @@ I am passionate about cybersecurity and believe that I do some of my best work w
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/christian-anderson-socanalyst/vulnerability-management-program){:target="_blank"}**
+- **[Vulnerability Management Program Implementation](https://github.com/christian-anderson-socanalyst/vulnerability-management-program{:target="_blank"})**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/christian-anderson-socanalyst/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
